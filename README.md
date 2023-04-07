@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=himanshugoyal77&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugoyal77&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://leetcard.jacoblin.cool/HimanshuGoya048l?ext=heatmap?theme=dark)
+![](https://leetcard.jacoblin.cool/HimanshuGoya048l?ext=heatmap)
 
 [![Himanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Himanshugoyal77&theme=dracula)](https://github.com/Himanshugoyal77/github-readme-activity-graph)
 
