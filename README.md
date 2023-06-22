@@ -1,5 +1,5 @@
-# 💫Hi I'm Himanshu:
-🦸‍♂️ Full-Stack Development and Machine Learning fascinate me!<br>🧙‍♂️ I'm currently learning how to Develop Intercative Dashboards on PowerBi.<br>📄 Know about my experiences https://drive.google.com/file/d/1-fZ55GF8q7GT1nu_BWSchxcK4XPRB4lg/view?usp=drivesdk
+# 💫Hi I'm Himanshu
+🦸‍♂️ Full-Stack Development and Machine Learning fascinate me!<br>🧙‍♂️ I'm currently learning how to Develop Interactive Dashboards on PowerBi.<br>📄 Know about my experiences https://drive.google.com/file/d/1-fZ55GF8q7GT1nu_BWSchxcK4XPRB4lg/view?usp=drivesdk
 
 
 ## 🌐 Socials:
