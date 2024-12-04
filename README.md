@@ -1,6 +1,20 @@
+
+
+[![](https://visitcount.itsvg.in/api?id=himanshugoyal77&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
 # 💫Hi I'm Himanshu
 🦸‍♂️ Full-Stack Development and Deep Learning fascinate me!<br>🧙‍♂️ I'm currently learning how to Develop scalable applications using microservices and Devops.<br>📄 Know about my experiences [https://drive.google.com/file/d/1-fZ55GF8q7GT1nu_BWSchxcK4XPRB4lg/view?usp=drivesdk](https://drive.google.com/file/d/1X1n1z6Ya54_FRW3MLizR4SG6Msenf80K/view?usp=sharing)
 
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://leetcard.jacoblin.cool/HimanshuGoya048l?ext=heatmap)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu_goyal48) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-goyal048) 
@@ -15,13 +29,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![](https://leetcard.jacoblin.cool/HimanshuGoya048l?ext=heatmap)
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=himanshugoyal77&icon=0&color=12)](https://visitcount.itsvg.in)
+
